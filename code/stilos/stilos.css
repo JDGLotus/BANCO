@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#Contenedor{
+    width: 960px;
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+aside{
+    width: 250px;
+    height: 500px;
+    float: left;
+    background-color: antiquewhite;
+    margin-right: 10;
+}
+
+article{
+    width: 700px;
+    height: 500px;
+    float: right;
+    background-color: antiquewhite;
+    margin-right: 10;
+}
